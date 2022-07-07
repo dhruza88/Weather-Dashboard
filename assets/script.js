@@ -65,7 +65,7 @@ function buildHeader(wData, cityName) {
                 <span>Date: ${dateFormat}</span>
                 <span>Temp: ${fTemp}</span>
                 <div>
-                    <img id="MainWIcon" src="http://openweathermap.org/img/w/${wData.current.weather[0].icon}.png" alt="Weather icon">
+                    <img id="MainWIcon" src="https://openweathermap.org/img/w/${wData.current.weather[0].icon}.png" alt="Weather icon">
                 </div>
             </div>
                 <div id="dfsect2">
@@ -92,7 +92,7 @@ function buildForecast(wData) {
                 <span>Date: ${myDate.toDateString()}</span>
                 <span>Temp: ${fTemp}</span>
                 <div>
-                    <img id="wIco${index}" src="http://openweathermap.org/img/w/${curData.weather[0].icon}.png" alt="Weather icon">
+                    <img id="wIco${index}" src="https://openweathermap.org/img/w/${curData.weather[0].icon}.png" alt="Weather icon">
                 </div>
                 <span>Humidity: ${curData.humidity}</span>
                 <span>Wind Speed: ${curData.wind_speed}</span>
