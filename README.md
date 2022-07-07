@@ -18,3 +18,10 @@ Deployed Link Below:
 
 ScreenShots Below:
 
+<img width="1132" alt="ss-1" src="https://user-images.githubusercontent.com/106774335/177681471-c80ccf15-a0f2-4a0e-8927-88db85d89d2d.png">
+
+
+<img width="1132" alt="ss-2" src="https://user-images.githubusercontent.com/106774335/177681482-de11f8d7-30ad-4cbf-83e6-099b3b2c279f.png">
+
+
+<img width="1126" alt="ss-3" src="https://user-images.githubusercontent.com/106774335/177681498-5575d39a-62e2-4359-bd82-5133d3cf4702.png">
