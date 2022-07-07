@@ -9,7 +9,7 @@ questionEl.addEventListener("submit", e => {
     let inputVal = cityEl.value;
 
     
-    const latelongUrl = `http://api.openweathermap.org/geo/1.0/direct?q=${inputVal}&appid=${apiKey}`;
+    const latelongUrl = `https://api.openweathermap.org/geo/1.0/direct?q=${inputVal}&appid=${apiKey}`;
    
    
 
